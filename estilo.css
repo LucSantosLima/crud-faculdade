@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.interface{
+    width: 400px;
+    height: auto;
+    padding: 20px;
+    border-radius: 1px solid #fff;
+    margin: 20px auto;
+    margin-top: 15%;
+    background-color: rgba(28, 31, 30, 0.788);
+    
+
+}
+
+.interface form{
+    width: 100%;
+    
+  
+}
+.interface form label{
+
+    color:#fff;
+    margin-top: 20px;
+}
+
+.interface form input{
+    width: 380px;
+    margin-bottom: 30px;
+
+}
+h4{
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+#entrar{
+    position: absolute; 
+    right: 550px;
+
+
+}
